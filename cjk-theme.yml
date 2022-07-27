@@ -6,6 +6,9 @@ font:
     Noto Sans Mono CN: NotoSansMonoCJKsc-VF.ttf
   fallbacks:
   - Noto Serif
+  - Helvetica
+  - Courier
+  - Times-Roman
 base:
   text-align: left
   font-color: #000000
