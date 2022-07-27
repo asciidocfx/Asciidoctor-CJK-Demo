@@ -4,6 +4,8 @@
 == 你好世界
 
 ifeval::["{backend}" == "html5"]
+.How to use
+====
 A custom theme should be created to work with CJK fonts. An example can be seen in the link:cjk-theme.yml[] .
 
 TTF fonts required by the theme exist in the link:fonts[] directory, and which are downloadable from https://github.com/googlefonts/noto-cjk/tree/main/Sans#ttf
@@ -17,6 +19,8 @@ To register the custom theme and the fonts, add this two attributes to your Asci
 ----
 
 For more information: https://docs.asciidoctor.org/pdf-converter/latest/theme/cjk/
+====
+
 endif::[]
 
 者追鹿活著介要者茨準方世利入。年実抗拙形割四挑長判行次分児反準。大初団立本児念習映提写種光上民道理者防穴。教点文塗煽種昨配生月中問視聞聞体。川柿房会殖整重愛貸知投何野改物薦。養舞室愛準夜北古岡図監政必余本並。見投程惑編政止少後入案備権権方野。告名般少兵月戦滋期達家用連携失。能算月番暮知欺軽変門道建止土本。
